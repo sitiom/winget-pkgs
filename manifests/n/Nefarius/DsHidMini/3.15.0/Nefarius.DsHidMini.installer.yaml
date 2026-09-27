@@ -7,6 +7,9 @@ MinimumOSVersion: 10.0.17763.0
 InstallerLocale: en-US
 InstallerType: wix
 Scope: machine
+Dependencies:
+  PackageDependencies:
+  - PackageIdentifier: Microsoft.DotNet.DesktopRuntime.10
 UpgradeBehavior: install
 ProductCode: '{25784100-B9AA-4205-8D54-CA53A16F7AC5}'
 ReleaseDate: 2026-09-24
