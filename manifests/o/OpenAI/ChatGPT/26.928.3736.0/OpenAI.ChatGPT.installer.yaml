@@ -27,7 +27,6 @@ RestrictedCapabilities:
 ReleaseDate: 2026-10-01
 AppsAndFeaturesEntries:
 - Publisher: OpenAI
-  DisplayVersion: 26.928.3736.0
 Installers:
 - Architecture: x64
   InstallerUrl: https://persistent.oaistatic.com/codex-app-prod/releases/26.928.3736.0/ChatGPT-x64.msix
